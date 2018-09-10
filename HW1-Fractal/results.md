@@ -177,8 +177,6 @@ Output:
 
 ## References
 Code for the sequential fractal:
-http://0pointer.de/blog/projects/mandelbrot.html
-
-
-Code I tried to use but didn't get good enough performance improvements so I just ended up referencing it for how to use ipyparallel
+http://0pointer.de/blog/projects/mandelbrot.html  
+Code I tried to use but didn't get good enough performance improvements so I just ended up referencing it for how to use ipyparallel:
 https://gist.github.com/joemilbourn/4030872
